@@ -1,0 +1,8 @@
+body {
+    background-color: cornsilk;
+}
+.nav-bar {
+background-color: blanchedalmond;
+height: 30px;
+display: flex;
+}

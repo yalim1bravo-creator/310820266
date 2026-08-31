@@ -3,6 +3,14 @@ body {
 }
 .nav-bar {
 background-color: blanchedalmond;
-height: 30px;
+height: 70px;
 display: flex;
+justify-content: center;
+font-size: 3rem !important;
+color: burlywood;
+}
+
+.footer {
+    background-color: blanchedalmond;
+    min-height: 200px;
 }
